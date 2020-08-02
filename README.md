@@ -27,6 +27,13 @@
 
 
 
+### :two_men_holding_hands: Interview
+ - [`Interview_Question_For_Beginner`]  
+
+
+<br><br>
+
+
 
 ### :zap: Other  
  - [`LINE 서버 개발자 준비 과정`]  
@@ -34,14 +41,6 @@
  
  
 <br><br>
-
-
-### :two_men_holding_hands: Interview
- - [`Interview_Question_For_Beginner`]  
-
-
-<br><br>
-
 
 
 
