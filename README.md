@@ -6,27 +6,30 @@
 - [`Java String 분석`]<br><br>
 - [`String 클래스 깊숙히 이해하기`]<br><br>
 
-<br><br><br>
+<br><br>
 
 
 
 ### :star: Spring  
 - [`Spring MVC 구조에서 Service와 ServiceImpl`] 
 
-<br><br><br>
+<br><br>
 
 
 
 ### :pencil: Resume
  - [`개발자 이력서`]
 
-<br><br><br>
+<br><br>
 
 
 
 
-
-
+### :zap: Other  
+ - [`LINE 서버 개발자 준비 과정`]  
+ - [`백엔드 개발자 도서, 로드맵`]  
+ 
+<br><br>
 
 
 
@@ -42,5 +45,9 @@
 [`Spring MVC 구조에서 Service와 ServiceImpl`]: https://multifrontgarden.tistory.com/97
 
 [`개발자 이력서`]: https://brunch.co.kr/@hee072794/132
+
+[`LINE 서버 개발자 준비 과정`]: https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/
+
+[`백엔드 개발자 도서, 로드맵`]: https://okky.kr/article/718107
 
 
