@@ -1,7 +1,7 @@
 ## :smile: 개발과 관련된 유용한 자료들을 수집하는 Repository 입니다.<br>
 
 ### :blue_book: Java
-- [`Java String 분석`]<br>
+- [`Java String 분석`]<br><br>
 - [`String 클래스 깊숙히 이해하기`]<br><br>
 
 
@@ -34,7 +34,7 @@
 
 
 ### :zap: Other  
- - [`LINE 서버 개발자 준비 과정`]<br>
+ - [`LINE 서버 개발자 준비 과정`]<br><br>
  - [`백엔드 개발자 도서, 로드맵`]<br><br>
  - [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]  
  
