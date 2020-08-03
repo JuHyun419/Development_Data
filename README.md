@@ -36,6 +36,7 @@
 ### :zap: Other  
  - [`LINE 서버 개발자 준비 과정`]  
  - [`백엔드 개발자 도서, 로드맵`]  
+ - [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]  
  
  
 <br><br>
@@ -57,4 +58,4 @@
 
 [`Interview_Question_For_Beginner`]: https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
-
+[`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]: https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
