@@ -3,7 +3,7 @@
 ### :blue_book: Java
 - [`Java String 분석`]<br><br>
 - [`String 클래스 깊숙히 이해하기`]<br><br>
-
+- [`자바 Lombok`] <br><br>
 
 <br><br>
 
@@ -59,3 +59,5 @@
 [`Interview_Question_For_Beginner`]: https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
 [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]: https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
+
+[`자바 Lombok`]: https://www.youtube.com/watch?feature=youtu.be&v=JouPeMHj3Po&app=desktop
