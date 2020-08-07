@@ -37,7 +37,8 @@
 ### :zap: Other  
  - [`LINE 서버 개발자 준비 과정`]<br><br>
  - [`백엔드 개발자 도서, 로드맵`]<br><br>
- - [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]  
+ - [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]<br><br>
+ - [`능력있는 개발자는 어떻게 알아 볼 수 있나?`]<br><br>
  
  
 <br><br>
@@ -62,3 +63,5 @@
 [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]: https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
 
 [`자바 Lombok`]: https://www.youtube.com/watch?feature=youtu.be&v=JouPeMHj3Po&app=desktop
+
+[`능력있는 개발자는 어떻게 알아 볼 수 있나?`]: https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit?fbclid=IwAR11LJ0Ano3YIq60Ek1tOn9NKSNipEqAMbwX5__mJ3r79h7qIysnaZuat8M
