@@ -3,7 +3,7 @@
 ### :blue_book: Java
 - [`Java String 분석`]<br><br>
 - [`String 클래스 깊숙히 이해하기`]<br><br>
-- [`자바 Lombok`] <br><br>
+- [`자바 Lombok`] (영상) <br><br>
 
 
 <br><br>
@@ -16,6 +16,14 @@
 
 <br><br>
 
+
+
+### :page_facing_up: Web
+- [`RESTful API 설계 가이드`] <br><br>
+
+
+
+<br><br>
 
 
 ### :pencil: Resume
@@ -65,3 +73,5 @@
 [`자바 Lombok`]: https://www.youtube.com/watch?feature=youtu.be&v=JouPeMHj3Po&app=desktop
 
 [`능력있는 개발자는 어떻게 알아 볼 수 있나?`]: https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit?fbclid=IwAR11LJ0Ano3YIq60Ek1tOn9NKSNipEqAMbwX5__mJ3r79h7qIysnaZuat8M
+
+[`RESTful API 설계 가이드`]: https://sanghaklee.tistory.com/57
