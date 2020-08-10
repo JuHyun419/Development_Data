@@ -72,10 +72,10 @@
 
 [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]: https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304
 
-[`자바 Lombok`]: https://www.youtube.com/watch?feature=youtu.be&v=JouPeMHj3Po&app=desktop
+[`자바 Lombok(영상)`]: https://www.youtube.com/watch?feature=youtu.be&v=JouPeMHj3Po&app=desktop
 
 [`능력있는 개발자는 어떻게 알아 볼 수 있나?`]: https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/edit?fbclid=IwAR11LJ0Ano3YIq60Ek1tOn9NKSNipEqAMbwX5__mJ3r79h7qIysnaZuat8M
 
 [`RESTful API 설계 가이드`]: https://sanghaklee.tistory.com/57
 
-[`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법`]: https://www.youtube.com/watch?v=Qtg5xe6B_vA&feature=youtu.be
+[`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법(영상)`]: https://www.youtube.com/watch?v=Qtg5xe6B_vA&feature=youtu.be
