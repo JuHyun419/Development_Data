@@ -2,9 +2,9 @@
 
 
 ### :blue_book: Java
-- [`Java String 분석`]<br><br>
-- [`String 클래스 깊숙히 이해하기`]<br><br>
-- [`자바 Lombok(영상)`]<br><br>
+- [`Java String 분석`] <br><br>
+- [`String 클래스 깊숙히 이해하기`] <br><br>
+- [`자바 Lombok(영상)`] <br><br>
 
 
 <br><br>
@@ -12,8 +12,8 @@
 
 
 ### :star: Spring  
-- [`Spring MVC 구조에서 Service와 ServiceImpl`] 
-
+- [`Spring MVC 구조에서 Service와 ServiceImpl`] <br><br>
+- [`Redirect VS Forward 차이`] <br><br>
 
 <br><br>
 
@@ -79,3 +79,5 @@
 [`RESTful API 설계 가이드`]: https://sanghaklee.tistory.com/57
 
 [`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법(영상)`]: https://www.youtube.com/watch?v=Qtg5xe6B_vA&feature=youtu.be
+
+[`Redirect VS Forward 차이`]: https://doublesprogramming.tistory.com/63
