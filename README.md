@@ -49,6 +49,7 @@
  - [`IT 개발자와 일할 때 필요한 모든 개발지식 A to Z`]<br><br>
  - [`능력있는 개발자는 어떻게 알아 볼 수 있나?`]<br><br>
  - [`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법(영상)`]<br><br>
+ - [`2020년 2분기 회고 | 개발자 황준일`]<br><br>
  
  
 <br><br>
@@ -81,3 +82,5 @@
 [`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법(영상)`]: https://www.youtube.com/watch?v=Qtg5xe6B_vA&feature=youtu.be
 
 [`Redirect VS Forward 차이`]: https://doublesprogramming.tistory.com/63
+
+[`2020년 2분기 회고 | 개발자 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/02-Second-Quarter/
