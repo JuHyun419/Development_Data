@@ -51,6 +51,7 @@
  - [`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법(영상)`]<br><br>
  - [`2020년 2분기 회고 | 개발자 황준일`]<br><br>
  - [`프레임워크 공부를 멈춰라`]<br><br>
+ - [`오픈소스의 네이밍 특징들`]<br><br>
  
  
 <br><br>
@@ -87,3 +88,5 @@
 [`2020년 2분기 회고 | 개발자 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/02-Second-Quarter/
 
 [`프레임워크 공부를 멈춰라`]: https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474
+
+[`오픈소스의 네이밍 특징들`]: https://brunch.co.kr/@goodvc78/12
