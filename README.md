@@ -13,7 +13,7 @@
 
 ### :star: Spring  
 - [`Spring MVC 구조에서 Service와 ServiceImpl`] <br><br>
-- [`Redirect VS Forward 차이`] <br><br>
+- [`@MVC와 DispatcherServlet에 대해서`] <br><br>
 
 <br><br>
 
@@ -21,6 +21,7 @@
 
 ### :page_facing_up: Web
 - [`RESTful API 설계 가이드`] <br><br>
+- [`Redirect VS Forward 차이`] <br><br>
 
 
 
@@ -92,3 +93,5 @@
 [`오픈소스의 네이밍 특징들`]: https://brunch.co.kr/@goodvc78/12
 
 [`프로그래머로서의 성장을 도왔던 태도들`]: https://ahnheejong.name/articles/becoming-better-programmer/
+
+[`@MVC와 DispatcherServlet에 대해서`]: http://egloos.zum.com/springmvc/v/504151#type=comment&page=3
