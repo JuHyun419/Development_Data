@@ -23,6 +23,7 @@
 ### :page_facing_up: Web
 - [`RESTful API 설계 가이드`] <br><br>
 - [`Redirect VS Forward 차이`] <br><br>
+- [`The A-Z of Web Development`] <br><br>
 
 
 
@@ -86,6 +87,8 @@
 [`(7월 우아한테크세미나)주니어 개발자로 성장하는 우아한 방법(영상)`]: https://www.youtube.com/watch?v=Qtg5xe6B_vA&feature=youtu.be
 
 [`Redirect VS Forward 차이`]: https://doublesprogramming.tistory.com/63
+
+[`The A-Z of Web Development`]: https://dev.to/desoga/the-a-z-of-web-development-5ge6
 
 [`2020년 2분기 회고 | 개발자 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/02-Second-Quarter/
 
