@@ -16,6 +16,7 @@
 ### :star: Spring  
 - [`Spring MVC 구조에서 Service와 ServiceImpl`] <br><br>
 - [`@MVC와 DispatcherServlet에 대해서`] <br><br>
+- [`스프링이란 무엇인가?`] <br><br>
 
 <br><br>
 
@@ -104,3 +105,5 @@
 [`Java 스트림 Stream (1) 총정리`]: https://futurecreator.github.io/2018/08/26/java-8-streams/
 
 [`Java 스트림(영상)`]: https://www.youtube.com/watch?v=mu9XfJofm8U&list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27
+
+[`스프링이란 무엇인가?`]: https://12bme.tistory.com/157
