@@ -7,6 +7,7 @@
 - [`자바 Lombok(영상)`] <br><br>
 - [`Java 스트림 Stream (1) 총정리`] <br><br>
 - [`Java 스트림(영상)`] <br><br>
+- [`Java Annotation`] <br><br>
 
 
 <br><br>
@@ -107,3 +108,5 @@
 [`Java 스트림(영상)`]: https://www.youtube.com/watch?v=mu9XfJofm8U&list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27
 
 [`스프링이란 무엇인가?`]: https://12bme.tistory.com/157
+
+[`Java Annotation`]: http://www.nextree.co.kr/p5864/
