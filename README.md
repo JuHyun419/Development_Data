@@ -18,6 +18,7 @@
 - [`Spring MVC 구조에서 Service와 ServiceImpl`] <br><br>
 - [`@MVC와 DispatcherServlet에 대해서`] <br><br>
 - [`스프링이란 무엇인가?`] <br><br>
+- [`Spring task, Scheduler`] <br><br>
 
 <br><br>
 
@@ -110,3 +111,5 @@
 [`스프링이란 무엇인가?`]: https://12bme.tistory.com/157
 
 [`Java Annotation`]: http://www.nextree.co.kr/p5864/
+
+[`Spring task, Scheduler`]: https://blog.outsider.ne.kr/1066
