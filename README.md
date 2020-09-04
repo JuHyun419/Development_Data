@@ -60,6 +60,7 @@
  - [`프레임워크 공부를 멈춰라`]<br><br>
  - [`오픈소스의 네이밍 특징들`]<br><br>
  - [`프로그래머로서의 성장을 도왔던 태도들`]<br><br>
+ - [`미리 알아야 할 개발 공부와 개발 실무의 차이`]<br><br>
  
 <br><br>
 
@@ -113,3 +114,5 @@
 [`Java Annotation`]: http://www.nextree.co.kr/p5864/
 
 [`Spring task, Scheduler`]: https://blog.outsider.ne.kr/1066
+
+[`미리 알아야 할 개발 공부와 개발 실무의 차이`]: https://brunch.co.kr/@chickenmoim/13
