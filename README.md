@@ -42,10 +42,13 @@
 
 
 ### :two_men_holding_hands: Interview
- - [`Interview_Question_For_Beginner`]  
+ - [`Interview_Question_For_Beginner`]<br><br>
 
 
 <br><br>
+
+### :pager: Git  
+ - [`Git 협업 가이드`]<br><br>
 
 
 
@@ -118,3 +121,5 @@
 [`미리 알아야 할 개발 공부와 개발 실무의 차이`]: https://brunch.co.kr/@chickenmoim/13
 
 [`UML 정리`]: http://www.nextree.co.kr/p6753/
+
+[`Git 협업 가이드`]: https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C
