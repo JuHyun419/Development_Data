@@ -7,6 +7,7 @@
 - [`Java 스트림 Stream (1) 총정리`] <br><br>
 - [`Java 스트림(영상)`] <br><br>
 - [`Java Annotation`] <br><br>
+- [`Java Heap Memory`] <br><br>
 
 
 <br><br>
@@ -123,3 +124,5 @@
 [`UML 정리`]: http://www.nextree.co.kr/p6753/
 
 [`Git 협업 가이드`]: https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C
+
+[`Java Heap Memory`]: https://m.blog.naver.com/PostView.nhn?blogId=pcmola&logNo=222074787428&proxyReferer=http:%2F%2Fm.facebook.com%2F
