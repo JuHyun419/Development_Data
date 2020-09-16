@@ -48,6 +48,7 @@
 
 ### :pager: Git  
  - [`Git 협업 가이드`]<br><br>
+ - [`Github에서 협업하는 방법`]<br><br>
 
 
 
@@ -124,3 +125,5 @@
 [`Git 협업 가이드`]: https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C
 
 [`Java Heap Memory`]: https://m.blog.naver.com/PostView.nhn?blogId=pcmola&logNo=222074787428&proxyReferer=http:%2F%2Fm.facebook.com%2F
+
+[`Github에서 협업하는 방법`]: https://velog.io/@cos/Github%EC%97%90%EC%84%9C-%ED%98%91%EC%97%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95
