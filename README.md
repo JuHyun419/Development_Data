@@ -23,7 +23,6 @@
 <br><br>
 
 
-
 ### :page_facing_up: Web
 - [`RESTful API 설계 가이드`] <br><br>
 - [`Redirect VS Forward 차이`] <br><br>
