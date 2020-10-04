@@ -10,6 +10,7 @@
 - [`Java Heap Memory`] <br><br>
 - [`Java의 날짜와 시간 API`] <br><br>
 - [`자바 코딩 규칙`] <br><br>
+- [`JUnit과 같이 쓰기 좋은 AssertJ 필수 부분 정리`] <br><br>
 
 <br><br>
 
@@ -132,3 +133,5 @@
 [`Java의 날짜와 시간 API`]: https://d2.naver.com/helloworld/645609
 
 [`자바 코딩 규칙`]: https://myeonguni.tistory.com/1596
+
+[`JUnit과 같이 쓰기 좋은 AssertJ 필수 부분 정리`]: https://pjh3749.tistory.com/241
