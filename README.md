@@ -67,6 +67,7 @@
  - [`프로그래머로서의 성장을 도왔던 태도들`]<br><br>
  - [`미리 알아야 할 개발 공부와 개발 실무의 차이`]<br><br>
  - [`UML 정리`]<br><br>
+ - [`우테코에서 찾은 나만의 효과적인 공부법`]<br><br>
  
 <br><br>
 
@@ -140,3 +141,5 @@
 [`코드로 알아보는 java의 ArrayList`]: https://sabarada.tistory.com/63
 
 [`코드로 알아보는 java의 Hashmap`]: https://sabarada.tistory.com/57
+
+[`우테코에서 찾은 나만의 효과적인 공부법`]: https://woowabros.github.io/techcourse/2020/06/24/techcourse-level2-retrospection.html
