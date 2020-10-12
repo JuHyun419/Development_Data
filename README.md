@@ -13,6 +13,7 @@
 - [`JUnit과 같이 쓰기 좋은 AssertJ 필수 부분 정리`] <br><br>
 - [`코드로 알아보는 java의 ArrayList`] <br><br>
 - [`코드로 알아보는 java의 Hashmap`] <br><br>
+- [`코드로 알아보는 java의 LinkedList`] <br><br>
 
 <br><br>
 
@@ -143,3 +144,5 @@
 [`코드로 알아보는 java의 Hashmap`]: https://sabarada.tistory.com/57
 
 [`우테코에서 찾은 나만의 효과적인 공부법`]: https://woowabros.github.io/techcourse/2020/06/24/techcourse-level2-retrospection.html
+
+[`코드로 알아보는 java의 LinkedList`]: https://sabarada.tistory.com/64
