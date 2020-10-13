@@ -14,6 +14,7 @@
 - [`코드로 알아보는 java의 ArrayList`] <br><br>
 - [`코드로 알아보는 java의 Hashmap`] <br><br>
 - [`코드로 알아보는 java의 LinkedList`] <br><br>
+- [`코드로 알아보는 java의 HashSet`] <br><br>
 
 <br><br>
 
@@ -146,3 +147,5 @@
 [`우테코에서 찾은 나만의 효과적인 공부법`]: https://woowabros.github.io/techcourse/2020/06/24/techcourse-level2-retrospection.html
 
 [`코드로 알아보는 java의 LinkedList`]: https://sabarada.tistory.com/64
+
+[`코드로 알아보는 java의 HashSet`]: https://sabarada.tistory.com/65
