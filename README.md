@@ -31,7 +31,7 @@
 - [`RESTful API 설계 가이드`] <br><br>
 - [`Redirect VS Forward 차이`] <br><br>
 - [`The A-Z of Web Development`] <br><br>
-
+- [`HTML, CSS 소스를 자동 인라인(inline) 변환`] <br><br>
 
 
 <br><br>
@@ -149,3 +149,5 @@
 [`코드로 알아보는 java의 LinkedList`]: https://sabarada.tistory.com/64
 
 [`코드로 알아보는 java의 HashSet`]: https://sabarada.tistory.com/65
+
+[`HTML, CSS 소스를 자동 인라인(inline) 변환`]: https://www.myintervals.com/emogrifier.php
