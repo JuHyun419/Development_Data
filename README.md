@@ -71,6 +71,8 @@
  - [`미리 알아야 할 개발 공부와 개발 실무의 차이`]<br><br>
  - [`UML 정리`]<br><br>
  - [`우테코에서 찾은 나만의 효과적인 공부법`]<br><br>
+ - [`2020년 9월 회고 | 개발자 황준일`]<br><br>
+ 
  
 <br><br>
 
@@ -154,3 +156,5 @@
 [`HTML, CSS 소스를 자동 인라인(inline) 변환`]: https://www.myintervals.com/emogrifier.php
 
 [`POI 라이브러리 Excel 다운`]: https://woowabros.github.io/experience/2020/10/08/excel-download.html
+
+[`2020년 9월 회고 | 개발자 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/09-September/#%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8
