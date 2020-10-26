@@ -73,6 +73,7 @@
  - [`우테코에서 찾은 나만의 효과적인 공부법`]<br><br>
  - [`2020년 9월 회고 | 개발자 황준일`]<br><br>
  - [`백엔드 주니어 개발자의 이직 이야기`]<br><br>
+ - [`기술 용어 및 개념 정리 모음`]<br><br>
  
  
 <br><br>
@@ -160,3 +161,5 @@
 [`2020년 9월 회고 | 개발자 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/09-September/#%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8
 
 [`백엔드 주니어 개발자의 이직 이야기`]: https://umanking.github.io/junior-career-log
+
+[`기술 용어 및 개념 정리 모음`]: https://daddyprogrammer.org/post/2058/tech-terms-concept/
