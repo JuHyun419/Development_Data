@@ -17,6 +17,7 @@
 - [`코드로 알아보는 java의 LinkedList`] <br><br>
 - [`코드로 알아보는 java의 HashSet`] <br><br>
 - [`POI 라이브러리 Excel 다운`] <br><br>
+- [`Java8 이후 변경사항 정리`] <br><br>
 
 <br><br>
 
@@ -163,3 +164,5 @@
 [`백엔드 주니어 개발자의 이직 이야기`]: https://umanking.github.io/junior-career-log
 
 [`기술 용어 및 개념 정리 모음`]: https://daddyprogrammer.org/post/2058/tech-terms-concept/
+
+[`Java8 이후 변경사항 정리`]: https://okky.kr/article/802815
