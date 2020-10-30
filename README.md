@@ -75,6 +75,7 @@
  - [`2020년 9월 회고 | 개발자 황준일`]<br><br>
  - [`백엔드 주니어 개발자의 이직 이야기`]<br><br>
  - [`기술 용어 및 개념 정리 모음`]<br><br>
+ - [`사이드 프로젝트? 그런 거 왜 해요?`]<br><br>
  
  
 <br><br>
@@ -166,3 +167,5 @@
 [`기술 용어 및 개념 정리 모음`]: https://daddyprogrammer.org/post/2058/tech-terms-concept/
 
 [`Java8 이후 변경사항 정리`]: https://okky.kr/article/802815
+
+[`사이드 프로젝트? 그런 거 왜 해요?`]: https://brunch.co.kr/@designerlab/4
