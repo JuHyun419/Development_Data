@@ -64,6 +64,7 @@
 
 ### :whale: Infra & Server
  - [`초보를 위한 도커 안내서 - 도커란 무엇인가?`]<br><br>
+ - [`쿠버네티스 시작하기 - Kubernetes란 무엇인가?`]<br><br>
 
 
 
@@ -183,3 +184,5 @@
 [`사이드 프로젝트? 그런 거 왜 해요?`]: https://brunch.co.kr/@designerlab/4
 
 [`초보를 위한 도커 안내서 - 도커란 무엇인가?`]: https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html
+
+[`쿠버네티스 시작하기 - Kubernetes란 무엇인가?`]: https://subicura.com/2019/05/19/kubernetes-basic-1.html
