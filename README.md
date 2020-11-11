@@ -88,6 +88,8 @@
  - [`백엔드 주니어 개발자의 이직 이야기`]<br><br>
  - [`기술 용어 및 개념 정리 모음`]<br><br>
  - [`사이드 프로젝트? 그런 거 왜 해요?`]<br><br>
+ - [`좋은 코드란 무엇일까?`]<br><br>
+ 
  
  
 <br><br>
@@ -185,3 +187,5 @@
 [`초보를 위한 도커 안내서 - 도커란 무엇인가?`]: https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html
 
 [`쿠버네티스 시작하기 - Kubernetes란 무엇인가?`]: https://subicura.com/2019/05/19/kubernetes-basic-1.html
+
+[`좋은 코드란 무엇일까?`]: https://jbee.io/etc/what-is-good-code/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social
