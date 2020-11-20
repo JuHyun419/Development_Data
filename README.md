@@ -89,7 +89,8 @@
  - [`기술 용어 및 개념 정리 모음`]<br><br>
  - [`사이드 프로젝트? 그런 거 왜 해요?`]<br><br>
  - [`좋은 코드란 무엇일까?`]<br><br>
- - [`Velog 개발자의 회고록 2018.log`]
+ - [`Velog 개발자의 회고록 2018.log`]<br><br>
+ - [`CodeReview에대해`]<br><br>
  
  
  
@@ -192,3 +193,5 @@
 [`좋은 코드란 무엇일까?`]: https://jbee.io/etc/what-is-good-code/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social
 
 [`Velog 개발자의 회고록 2018.log`]: https://velog.io/@velopert/2018.log
+
+[`CodeReview에대해`]: https://youtu.be/FJNV_qoRRks
