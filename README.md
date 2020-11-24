@@ -18,7 +18,7 @@
 - [`코드로 알아보는 java의 HashSet`] <br><br>
 - [`POI 라이브러리 Excel 다운`] <br><br>
 - [`Java8 이후 변경사항 정리`] <br><br>
-- [`[Agile] TDD(테스트 주도 개발)란`] <br><br>
+- [`Agile TDD(테스트 주도 개발)란`] <br><br>
 
 
 <br><br>
@@ -198,4 +198,4 @@
 
 [`CodeReview에대해`]: https://youtu.be/FJNV_qoRRks
 
-[`[Agile] TDD(테스트 주도 개발)란`]: https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html
+[`Agile TDD(테스트 주도 개발)란`]: https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html
