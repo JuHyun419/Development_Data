@@ -72,6 +72,14 @@
 <br><br>
 
 
+### :whale: Network
+ - [`쉽고 간단한, OSI 7 Layer`]
+
+
+
+<br><br>
+
+
 
 ### :zap: Other  
  - [`LINE 서버 개발자 준비 과정`]<br><br>
@@ -199,3 +207,5 @@
 [`CodeReview에대해`]: https://youtu.be/FJNV_qoRRks
 
 [`Agile TDD(테스트 주도 개발)란`]: https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html
+
+[`쉽고 간단한, OSI 7 Layer`]: https://okky.kr/article/830488
