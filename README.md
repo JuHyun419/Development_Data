@@ -37,6 +37,8 @@
 - [`Redirect VS Forward 차이`] <br><br>
 - [`The A-Z of Web Development`] <br><br>
 - [`HTML, CSS 소스를 자동 인라인(inline) 변환`] <br><br>
+- [`REST API 제대로 알고 사용하기`] <br><br>
+
 
 
 <br><br>
@@ -209,3 +211,5 @@
 [`Agile TDD(테스트 주도 개발)란`]: https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html
 
 [`쉽고 간단한, OSI 7 Layer`]: https://okky.kr/article/830488
+
+[`REST API 제대로 알고 사용하기`]: https://meetup.toast.com/posts/92
