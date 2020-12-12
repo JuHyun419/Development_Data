@@ -103,6 +103,7 @@
  - [`좋은 코드란 무엇일까?`]<br><br>
  - [`Velog 개발자의 회고록 2018.log`]<br><br>
  - [`CodeReview에대해`]<br><br>
+ - [`웹 백엔드 개발자 학습 로드맵(유튜브)`]<br><br>
  
  
  
@@ -213,3 +214,5 @@
 [`쉽고 간단한, OSI 7 Layer`]: https://okky.kr/article/830488
 
 [`REST API 제대로 알고 사용하기`]: https://meetup.toast.com/posts/92
+
+[`웹 백엔드 개발자 학습 로드맵`]: https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1
