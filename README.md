@@ -216,6 +216,6 @@
 
 [`REST API 제대로 알고 사용하기`]: https://meetup.toast.com/posts/92
 
-[`웹 백엔드 개발자 학습 로드맵`]: https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1
+[`웹 백엔드 개발자 학습 로드맵(유튜브)`]: https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1
 
 [`오픈소스 컨트리뷰터의 팁`]: https://dc7303.github.io/essay/2020/12/13/opensource-contribution/
