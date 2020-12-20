@@ -105,6 +105,7 @@
  - [`CodeReview에대해`]<br><br>
  - [`웹 백엔드 개발자 학습 로드맵(유튜브)`]<br><br>
  - [`오픈소스 컨트리뷰터의 팁`]<br><br>
+ - [`흔하지 않고 좋은 웹 개발자가 되는 방법`]<br><br>
  
  
  
@@ -219,3 +220,5 @@
 [`웹 백엔드 개발자 학습 로드맵(유튜브)`]: https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1
 
 [`오픈소스 컨트리뷰터의 팁`]: https://dc7303.github.io/essay/2020/12/13/opensource-contribution/
+
+[`흔하지 않고 좋은 웹 개발자가 되는 방법`]: https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/
