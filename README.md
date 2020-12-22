@@ -60,6 +60,7 @@
 ### :pager: Git  
  - [`Git 협업 가이드`]<br><br>
  - [`Github에서 협업하는 방법`]<br><br>
+ - [`초심자를 위한 Github 협업`]<br><br>
  
  
 <br><br>
@@ -222,3 +223,5 @@
 [`오픈소스 컨트리뷰터의 팁`]: https://dc7303.github.io/essay/2020/12/13/opensource-contribution/
 
 [`흔하지 않고 좋은 웹 개발자가 되는 방법`]: https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/
+
+[`초심자를 위한 Github 협업`]: https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
