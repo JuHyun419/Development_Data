@@ -38,6 +38,7 @@
 - [`The A-Z of Web Development`] <br><br>
 - [`HTML, CSS 소스를 자동 인라인(inline) 변환`] <br><br>
 - [`REST API 제대로 알고 사용하기`] <br><br>
+- [`JWT 토큰(Token) 기반 인증에 대한 소개`] <br><br>
 
 
 
@@ -225,3 +226,5 @@
 [`흔하지 않고 좋은 웹 개발자가 되는 방법`]: https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/
 
 [`초심자를 위한 Github 협업`]: https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+
+[`JWT 토큰(Token) 기반 인증에 대한 소개`]: https://velopert.com/2350
