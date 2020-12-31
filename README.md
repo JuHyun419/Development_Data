@@ -45,6 +45,10 @@
 <br><br>
 
 
+### 📰 Database
+- [` MySQL 실행 계획`] <br><br>
+
+
 ### :pencil: Resume
  - [`개발자 이력서`]
 
@@ -228,3 +232,5 @@
 [`초심자를 위한 Github 협업`]: https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
 
 [`JWT 토큰(Token) 기반 인증에 대한 소개`]: https://velopert.com/2350
+
+[` MySQL 실행 계획`]: https://12bme.tistory.com/160
