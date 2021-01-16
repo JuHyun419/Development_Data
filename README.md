@@ -112,7 +112,7 @@
  - [`웹 백엔드 개발자 학습 로드맵(유튜브)`]<br><br>
  - [`오픈소스 컨트리뷰터의 팁`]<br><br>
  - [`흔하지 않고 좋은 웹 개발자가 되는 방법`]<br><br>
- 
+ - [`중소기업에서 대기업으로 이직 성공 후기`]<br><br>
  
  
 <br><br>
@@ -234,3 +234,5 @@
 [`JWT 토큰(Token) 기반 인증에 대한 소개`]: https://velopert.com/2350
 
 [` MySQL 실행 계획`]: https://12bme.tistory.com/160
+
+[`중소기업에서 대기업으로 이직 성공 후기`]: https://lifeasy88.tistory.com/8?category=913969
