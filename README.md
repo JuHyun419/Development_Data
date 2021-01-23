@@ -19,6 +19,10 @@
 - [`POI 라이브러리 Excel 다운`] <br><br>
 - [`Java8 이후 변경사항 정리`] <br><br>
 - [`Agile TDD(테스트 주도 개발)란`] <br><br>
+- [`자바8 Optional 1부: 빠져나올 수 없는 null 처리의 늪`] <br><br>
+- [`Validation 어디까지 해봤니?`] <br><br>
+
+
 
 
 <br><br>
@@ -236,3 +240,7 @@
 [` MySQL 실행 계획`]: https://12bme.tistory.com/160
 
 [`중소기업에서 대기업으로 이직 성공 후기`]: https://lifeasy88.tistory.com/8?category=913969
+
+[`자바8 Optional 1부: 빠져나올 수 없는 null 처리의 늪`]: https://www.daleseo.com/java8-optional-before/
+
+[`Validation 어디까지 해봤니?`]: https://meetup.toast.com/posts/223
