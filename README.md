@@ -78,6 +78,7 @@
 ### :whale: Infra & Server
  - [`초보를 위한 도커 안내서 - 도커란 무엇인가?`]<br><br>
  - [`쿠버네티스 시작하기 - Kubernetes란 무엇인가?`]<br><br>
+ - [`개발자를 위한 인프라 기초 총정리`]<br><br>
 
 
 
@@ -247,3 +248,5 @@
 [`Validation 어디까지 해봤니?`]: https://meetup.toast.com/posts/223
 
 [`주니어 개발자의 2020년 회고 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/end/#_5-%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%E1%84%8B%E1%85%A5-%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC
+
+[`개발자를 위한 인프라 기초 총정리`]: https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/
