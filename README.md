@@ -43,7 +43,7 @@
 - [`HTML, CSS 소스를 자동 인라인(inline) 변환`] <br><br>
 - [`REST API 제대로 알고 사용하기`] <br><br>
 - [`JWT 토큰(Token) 기반 인증에 대한 소개`] <br><br>
-- [HTTP 정리](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312)
+- [`HTTP 정리`](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312) <br>
 
 
 
@@ -119,9 +119,9 @@
  - [`CodeReview에대해`]<br><br>
  - [`웹 백엔드 개발자 학습 로드맵(유튜브)`]<br><br>
  - [`오픈소스 컨트리뷰터의 팁`]<br><br>
- - [`흔하지 않고 좋은 웹 개발자가 되는 방법`]<br><br>
- - [중소기업에서 대기업으로 이직 성공 후기](https://lifeasy88.tistory.com/8?category=913969)
- - [성장하는 개발자(시니어 개발자, 테크 리더로 성장한 개발 노트 공개)](https://www.youtube.com/watch?v=T7y6Hl0YZ14)
+ - [`흔하지 않고 좋은 웹 개발자가 되는 방법`](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/) <br>
+ - [`중소기업에서 대기업으로 이직 성공 후기`](https://lifeasy88.tistory.com/8?category=913969) <br>
+ - [`성장하는 개발자(시니어 개발자, 테크 리더로 성장한 개발 노트 공개)`](https://www.youtube.com/watch?v=T7y6Hl0YZ14) <br>
  
  
 <br><br>
@@ -235,8 +235,6 @@
 [`웹 백엔드 개발자 학습 로드맵(유튜브)`]: https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1
 
 [`오픈소스 컨트리뷰터의 팁`]: https://dc7303.github.io/essay/2020/12/13/opensource-contribution/
-
-[`흔하지 않고 좋은 웹 개발자가 되는 방법`]: https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/
 
 [`초심자를 위한 Github 협업`]: https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
 
