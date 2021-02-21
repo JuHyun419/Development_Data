@@ -115,13 +115,13 @@
  - [`기술 용어 및 개념 정리 모음`]<br><br>
  - [`사이드 프로젝트? 그런 거 왜 해요?`]<br><br>
  - [`좋은 코드란 무엇일까?`]<br><br>
- - [`Velog 개발자의 회고록 2018.log`]<br><br>
- - [`CodeReview에대해`]<br><br>
- - [`웹 백엔드 개발자 학습 로드맵(유튜브)`]<br><br>
- - [`오픈소스 컨트리뷰터의 팁`]<br><br>
- - [`흔하지 않고 좋은 웹 개발자가 되는 방법`](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/) <br>
- - [`중소기업에서 대기업으로 이직 성공 후기`](https://lifeasy88.tistory.com/8?category=913969) <br>
- - [`성장하는 개발자(시니어 개발자, 테크 리더로 성장한 개발 노트 공개)`](https://www.youtube.com/watch?v=T7y6Hl0YZ14) <br>
+ - [`Velog 개발자의 회고록 2018.log`](https://velog.io/@velopert/2018.log) <br><br>
+ - [`CodeReview에대해`](https://youtu.be/FJNV_qoRRks) <br><br>
+ - [`웹 백엔드 개발자 학습 로드맵(유튜브)`](https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1) <br><br>
+ - [`오픈소스 컨트리뷰터의 팁`](https://dc7303.github.io/essay/2020/12/13/opensource-contribution/) <br><br>
+ - [`흔하지 않고 좋은 웹 개발자가 되는 방법`](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/) <br><br>
+ - [`중소기업에서 대기업으로 이직 성공 후기`](https://lifeasy88.tistory.com/8?category=913969) <br><br>
+ - [`성장하는 개발자(시니어 개발자, 테크 리더로 성장한 개발 노트 공개)`](https://www.youtube.com/watch?v=T7y6Hl0YZ14) <br><br>
  
  
 <br><br>
@@ -222,19 +222,11 @@
 
 [`좋은 코드란 무엇일까?`]: https://jbee.io/etc/what-is-good-code/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social
 
-[`Velog 개발자의 회고록 2018.log`]: https://velog.io/@velopert/2018.log
-
-[`CodeReview에대해`]: https://youtu.be/FJNV_qoRRks
-
 [`Agile TDD(테스트 주도 개발)란`]: https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html
 
 [`쉽고 간단한, OSI 7 Layer`]: https://okky.kr/article/830488
 
 [`REST API 제대로 알고 사용하기`]: https://meetup.toast.com/posts/92
-
-[`웹 백엔드 개발자 학습 로드맵(유튜브)`]: https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1
-
-[`오픈소스 컨트리뷰터의 팁`]: https://dc7303.github.io/essay/2020/12/13/opensource-contribution/
 
 [`초심자를 위한 Github 협업`]: https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
 
