@@ -23,8 +23,6 @@
 - [`Validation 어디까지 해봤니?`] <br><br>
 
 
-
-
 <br><br>
 
 ### :star: Spring  
@@ -35,6 +33,9 @@
 
 <br><br>
 
+### 🔯 JavaScript
+- [`DOM 쉽게 이해하기!! 고척스카이돔 아닙니다`](https://kingofbackend.tistory.com/25?category=913227) <br>
+
 
 ### :page_facing_up: Web
 - [`RESTful API 설계 가이드`] <br><br>
@@ -44,8 +45,6 @@
 - [`REST API 제대로 알고 사용하기`] <br><br>
 - [`JWT 토큰(Token) 기반 인증에 대한 소개`] <br><br>
 - [`HTTP 정리`](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312) <br>
-
-
 
 <br><br>
 
@@ -80,8 +79,7 @@
  - [`초보를 위한 도커 안내서 - 도커란 무엇인가?`]<br><br>
  - [`쿠버네티스 시작하기 - Kubernetes란 무엇인가?`]<br><br>
  - [`개발자를 위한 인프라 기초 총정리`]<br><br>
- - [`입문자를 위한 리눅스/맥 커맨드라인 셸 사용법`]<br><br>
-
+ - [`입문자를 위한 리눅스/맥 커맨드라인 셸 사용법`](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner) <br><br>
 
 
 <br><br>
@@ -111,10 +109,10 @@
  - [`UML 정리`]<br><br>
  - [`우테코에서 찾은 나만의 효과적인 공부법`]<br><br>
  - [`2020년 9월 회고 | 개발자 황준일`]<br><br>
- - [`백엔드 주니어 개발자의 이직 이야기`]<br><br>
- - [`기술 용어 및 개념 정리 모음`]<br><br>
- - [`사이드 프로젝트? 그런 거 왜 해요?`]<br><br>
- - [`좋은 코드란 무엇일까?`]<br><br>
+ - [`백엔드 주니어 개발자의 이직 이야기`](https://umanking.github.io/junior-career-log) <br><br>
+ - [`기술 용어 및 개념 정리 모음`](https://daddyprogrammer.org/post/2058/tech-terms-concept/) <br><br>
+ - [`사이드 프로젝트? 그런 거 왜 해요?`](https://brunch.co.kr/@designerlab/4) <br><br>
+ - [`좋은 코드란 무엇일까?`](https://jbee.io/etc/what-is-good-code/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)  <br><br>
  - [`Velog 개발자의 회고록 2018.log`](https://velog.io/@velopert/2018.log) <br><br>
  - [`CodeReview에대해`](https://youtu.be/FJNV_qoRRks) <br><br>
  - [`웹 백엔드 개발자 학습 로드맵(유튜브)`](https://www.youtube.com/watch?v=ugP3iNPtf0w&t=982s&ab_channel=%EB%B0%95%EC%9E%AC%EC%84%B1) <br><br>
@@ -208,19 +206,11 @@
 
 [`2020년 9월 회고 | 개발자 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/09-September/#%E1%84%80%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8
 
-[`백엔드 주니어 개발자의 이직 이야기`]: https://umanking.github.io/junior-career-log
-
-[`기술 용어 및 개념 정리 모음`]: https://daddyprogrammer.org/post/2058/tech-terms-concept/
-
 [`Java8 이후 변경사항 정리`]: https://okky.kr/article/802815
-
-[`사이드 프로젝트? 그런 거 왜 해요?`]: https://brunch.co.kr/@designerlab/4
 
 [`초보를 위한 도커 안내서 - 도커란 무엇인가?`]: https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html
 
 [`쿠버네티스 시작하기 - Kubernetes란 무엇인가?`]: https://subicura.com/2019/05/19/kubernetes-basic-1.html
-
-[`좋은 코드란 무엇일까?`]: https://jbee.io/etc/what-is-good-code/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social
 
 [`Agile TDD(테스트 주도 개발)란`]: https://gmlwjd9405.github.io/2018/06/03/agile-tdd.html
 
@@ -241,5 +231,3 @@
 [`주니어 개발자의 2020년 회고 황준일`]: https://junilhwang.github.io/TIL/Review/2020-year/end/#_5-%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%E1%84%8B%E1%85%A5-%E1%84%92%E1%85%AA%E1%86%AF%E1%84%83%E1%85%A9%E1%86%BC
 
 [`개발자를 위한 인프라 기초 총정리`]: https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/
-
-[`입문자를 위한 리눅스/맥 커맨드라인 셸 사용법`]: https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner
